@@ -17,19 +17,20 @@ npm install
 npx expo start
 ```
 
-Recursos aplicados
-✅ React Navigation: controle de navegação entre telas.
+2. **Recursos aplicados**
+   
+  - ✅ React Navigation: controle de navegação entre telas.
 
-✅ PokéAPI (https://pokeapi.co): consumo da API pública de Pokémons.
+  - ✅ PokéAPI (https://pokeapi.co): consumo da API pública de Pokémons.
 
-✅ FlatList: renderização eficiente de listas.
+  - ✅ FlatList: renderização eficiente de listas.
 
-✅ TextInput com filtro: busca por nome dos Pokémons em tempo real.
+  - ✅ TextInput com filtro: busca por nome dos Pokémons em tempo real.
 
-✅ Fetch API: requisições HTTP para buscar dados da PokéAPI.
+  - ✅ Fetch API: requisições HTTP para buscar dados da PokéAPI.
 
-✅ Hooks (useState, useEffect): controle de estado e ciclo de vida.
+  - ✅ Hooks (useState, useEffect): controle de estado e ciclo de vida.
 
-✅ ActivityIndicator: exibição de loading durante requisições.
+  - ✅ ActivityIndicator: exibição de loading durante requisições.
 
-✅ Sprites/Imagens: cada Pokémon exibe sua imagem oficial no componente PokemonCard.
+  - ✅ Sprites/Imagens: cada Pokémon exibe sua imagem oficial no componente PokemonCard.
